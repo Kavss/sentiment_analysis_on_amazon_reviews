@@ -1,0 +1,2 @@
+# sentiment_analysis_on_amazon_reviews
+Sentiment analysis (positive/negative) of amazon reviews with binary linear classification models. Code contains preliminary data exploration, discriminative feature selection, model selection with multi-fold cross validation and comparison of final model with baseline rule-based classifier, and generalization capability analysis (using VC dimension, generalization bound, 'shattering' concepts). References to book chapters, articles and journal papers are listed at the end of the code segment.
